@@ -22,7 +22,7 @@ def count_punct(text):
 app = Flask(__name__)
 
 
-data = pd.read_csv("sentiment.tsv",sep = '\t')
+data = pd.read_csv("data/sentiment.tsv",sep = '\t')
 data.columns = ["label","body_text"]
 # Features and Labels
 data['label'] = data['label'].map({'pos': 0, 'neg': 1})
