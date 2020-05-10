@@ -1,4 +1,4 @@
-conda==4.8.2
+
 Flask==1.1.1
 Flask-Bootstrap==3.3.7.1
 Flask-Material==0.1.1
