@@ -4,7 +4,7 @@ Flask-Bootstrap==3.3.7.1
 Flask-Material==0.1.1
 joblib==0.14.1
 nltk==3.4.5
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 path==13.1.0
 requests==2.22.0
