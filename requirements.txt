@@ -7,7 +7,7 @@ nltk==3.4.5
 numpy==1.18.1
 pandas==1.0.1
 path==13.1.0
-requests==2.22.0
+requests==2.31.0
 scikit-learn==0.22.1
 scipy==1.4.1
 spacy==2.2.4
